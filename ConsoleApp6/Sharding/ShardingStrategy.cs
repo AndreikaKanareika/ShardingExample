@@ -36,7 +36,7 @@ namespace ConsoleApp6
 
         public virtual int GetShardId(T key)
         {
-            return ((key.GetHashCode() & 0xfffffff) % _shards.Count) + 1;
+            return ((key.GetHashCode() & 0x7fffffff) % _shards.Count) + 1;
         }
     }
 }

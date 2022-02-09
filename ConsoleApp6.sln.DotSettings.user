@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9a42b092_002Dc6d0_002D4499_002D9969_002D7f1b7cfefb1f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="aaa" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::34C23F55-3794-4FDC-87B1-6A08639C5EE1::net5.0::TestProject1.UnitTest1.aaa&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::34C23F55-3794-4FDC-87B1-6A08639C5EE1::net5.0::TestProject1.UnitTest1.ShowShardsData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::34C23F55-3794-4FDC-87B1-6A08639C5EE1::net5.0::TestProject1.UnitTest1.ClearData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::34C23F55-3794-4FDC-87B1-6A08639C5EE1::net5.0::TestProject1.UnitTest1.CreateSchema&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::34C23F55-3794-4FDC-87B1-6A08639C5EE1::net5.0::TestProject1.UnitTest1.AddCustomer1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::34C23F55-3794-4FDC-87B1-6A08639C5EE1::net5.0::TestProject1.UnitTest1.UpdateAndGet&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::34C23F55-3794-4FDC-87B1-6A08639C5EE1::net5.0::TestProject1.UnitTest1.AddCustomers&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
